@@ -1,0 +1,6 @@
+(lang dune 3.7)
+(name functional_red_black_trees_with_deletion)
+(sections (lib .) (bin ../../bin))
+(files
+ (lib (META dune-package opam))
+ (bin (functional_red_black_trees_with_deletion)))

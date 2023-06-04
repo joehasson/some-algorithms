@@ -1,0 +1,4 @@
+(executable
+ (public_name functional_red_black_trees_with_deletion)
+ (name main)
+ (libraries functional_red_black_trees_with_deletion))

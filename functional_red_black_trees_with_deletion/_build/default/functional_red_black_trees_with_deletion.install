@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/functional_red_black_trees_with_deletion/META"
+  "_build/install/default/lib/functional_red_black_trees_with_deletion/dune-package"
+  "_build/install/default/lib/functional_red_black_trees_with_deletion/opam"
+]
+bin: [
+  "_build/install/default/bin/functional_red_black_trees_with_deletion"
+]
